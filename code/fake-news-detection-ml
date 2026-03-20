@@ -1,8 +1,19 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-nltk
-streamlit
-pickle-mixin
+fake-news-detection-ml/
+
+notebooks/
+    EDA.ipynb
+
+src/
+    train_model.py
+    predict.py
+
+app/
+    app.py
+
+model/
+    model.pkl
+    vectorizer.pkl
+
+README.md
+requirements.txt
+.gitignorein
